@@ -1,2 +1,3 @@
-# CodeCademy-Python-Project-Scrabble
- Scrabble, Python Project
+# CodeCademy Python Project
+
+Scrabble
